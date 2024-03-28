@@ -47,8 +47,100 @@ header{
 .btn{
     width:  120px;
     height: 40px;
-    border-radius: 8px;
+    border-radius: 5px;
     color: white;
     background-color: red;
-
+    margin: -140px;
 }
+
+.div1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(56, 28, 25);
+    margin-left: 550px;
+    margin-top: 80px;
+}
+
+.div2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(56, 28, 25);
+    margin-left: 50px;
+    margin-top: 80px;
+}
+
+.div3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(56, 28, 25);
+    margin-left: 50px;
+    margin-top: 80px;
+}
+
+.div4{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(56, 28, 25);
+    margin-left: 50px;
+    margin-top: 80px;
+}
+
+.div5{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(56, 28, 25);
+    margin-left: 50px;
+    margin-top: 80px;
+}
+
+.img1{
+    margin-left: 10px;
+}
+
+
+.info1{
+    font-size: 10px;
+    margin-top: -2px;
+    margin-left: 27px;
+    color: white;
+    font-family: Poppins;
+}
+
+.info2{
+    font-size: 10px;
+    margin-top: -2px;
+    margin-left: 29px;
+    color: white;
+    font-family: Poppins;
+}
+
+.info3{
+    font-size: 10px;
+    margin-top: -2px;
+    margin-left: 35px;
+    color: white;
+    font-family: Poppins;
+}
+
+.info4{
+    font-size: 10px;
+    margin-top: -2px;
+    color: white;
+    margin-left: 32px;
+    font-family: Poppins;
+}
+
+.info5{
+    font-size: 10px;
+    margin-top: -2px;
+    margin-left: 34px;
+    color: white;
+    font-family: Poppins;
+}
+
+.ez{
+    display: flex;
+}
+
+
+
