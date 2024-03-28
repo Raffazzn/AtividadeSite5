@@ -1,0 +1,54 @@
+body{
+    background-color: #150E0F;
+}
+
+header{
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+    padding: 0 60px;
+}
+
+.menu-sing{
+    background-color: red;
+    width: 75px;
+    height: 30px;
+}
+.menu-bar{
+    display: flex;
+    list-style: none;
+    font-family: Roboto;
+    font-size: 24px;
+    column-gap: 50px;
+    color: #fff; 
+}
+
+.menu-item{
+    color: white;
+}
+
+.titulo{
+    font-size: 30px;
+    font-family: Poppins;
+    height: 300px;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 0 0 0 555px;
+}
+
+.barra{
+    width: 1060px;
+    height: 66px;
+    margin-left: 400px;
+}
+
+.btn{
+    width:  120px;
+    height: 40px;
+    border-radius: 8px;
+    color: white;
+    background-color: red;
+
+}
